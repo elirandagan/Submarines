@@ -1,5 +1,3 @@
-/* Name:Eliran Dagan, ID:208061580, Assigment 3*/
-
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
