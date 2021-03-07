@@ -1,5 +1,5 @@
 # Submarines
-Easy and simple game to play in front of the console written in language C.
+Easy and simple game to play in front of the console written in C language .
 Excellent practice for computer engineering students and computer professions to understand the basics of working with static matrices in
 C.
 
